@@ -1,6 +1,6 @@
 # A custom version of [ACSONE Odoo project template](https://github.com/acsone/acsone-odoo-project-template)
 
-> support acsone/odoo-bedrock:`14.0-py39`-latest **only**
+> support [acsone/odoo-bedrock](https://github.com/acsone/odoo-bedrock/pkgs/container/odoo-bedrock):`14.0-py39`-latest **only**
 
 ## How to use this template
 
