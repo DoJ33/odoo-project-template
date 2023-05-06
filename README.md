@@ -1,13 +1,4 @@
-# ACSONE Odoo project template
-
-This is a [copier](https://pypi.org/project/copier/) template for use in ACSONE Odoo projects.
-
-The aim of this template is to organize an Odoo project as a regular Python project,
-using modern Python standards and good practices.
-
-⚠️ This project is meant for ACSONE internal use. Things may change without notice. Feel
-free to draw inspiration. Feedback is welcome in
-[discussions](https://github.com/acsone/acsone-odoo-project-template/discussions). ⚠️
+# A custom version of [ACSONE Odoo project template](https://github.com/acsone/acsone-odoo-project-template)
 
 ## How to use this template
 
@@ -17,7 +8,7 @@ free to draw inspiration. Feedback is welcome in
 
 ### Initializing a new project
 
-`copier copy git+https://github.com/acsone/acsone-odoo-project-template {project-root-dir}`
+`copier copy git+https://github.com/DoJ33/odoo-project-template {project-root-dir}`
 
 This will ask questions and create the `{project-root-dir}` directory and initialize the
 project inside it.
